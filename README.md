@@ -1,2 +1,2 @@
 # Exercicios-5-6
-Repositórios dos exercícios 3 e 4 de PI
+Repositórios dos exercícios 5 e 6 de PI
